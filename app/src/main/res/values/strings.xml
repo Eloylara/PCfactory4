@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PCfactory4</string>
+    <string name="txt_codigo">Código del producto</string>
+    <string name="txt_placa">Placa Madre</string>
+    <string name="txt_cpu">CPUo</string>
+    <string name="txt_tarjeta">Tarjeta de Video</string>
+    <string name="txt_fuente">Fuente de Poder</string>
+    <string name="txt_ram">Memoria Ram</string>
+    <string name="txt_alma">Almacenamiento</string>
+    <string name="txt_gabinete">Gabinete</string>
+    <string name="BotonRegistrar">Registrar Producto</string>
+    <string name="BotonBuscar">Buscar Producto</string>
+    <string name="BotonEliminar">Eliminar Producto</string>
+    <string name="BotonModificar">Modificar Producto</string>
+
+</resources>
